@@ -8,7 +8,7 @@ The goal of this project is to design an interactive Power BI dashboard that pro
 
 ## 📂 Dataset Used
 
-* **Source:** [Store Sales Dataset]([https://www.kaggle.com/datasets](https://github.com/Debabrataswain3/Store-Sales-Analysis-Dashboard-Power-BI-/blob/main/Store%20Sale%20Data.csv)) 
+* **Source:** [Store Sales Dataset](https://github.com/Debabrataswain3/Store-Sales-Analysis-Dashboard-Power-BI-/blob/main/Store%20Sale%20Data.csv) 
 * Data includes transactions, product details, store information, and customer demographics.
 
 ---
@@ -44,7 +44,7 @@ This dashboard aims to answer:
 
 ## 📊 Dashboard Link
 
-👉 [View Store Sales Dashboard](<img width="1327" height="737" alt="Screenshot 2025-09-24 101921" src="https://github.com/user-attachments/assets/e8ce59a6-67c7-4ad3-9013-58abe58f917d" />
+👉 [View Store Sales Dashboard](<img width="1327" height="737" alt="Screenshot 2025-09-24 101921" src="https://github.com/user-attachments/assets/cc3cb812-8580-4afe-a528-2689574320c4" />
 ) 
 
 ---
