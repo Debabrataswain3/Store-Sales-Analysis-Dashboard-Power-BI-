@@ -44,8 +44,7 @@ This dashboard aims to answer:
 
 ## 📊 Dashboard Link
 
-👉 [View Store Sales Dashboard](<img width="1327" height="737" alt="Screenshot 2025-09-24 101921" src="https://github.com/user-attachments/assets/dd32afa3-3ad0-4acf-8039-4db880c3b5a8" />
-
+👉 [View Store Sales Dashboard]("C:\Users\WELCOME\Pictures\Screenshots\Screenshot 2025-10-21 180545.png","C:\Users\WELCOME\Pictures\Screenshots\Screenshot 2025-10-21 180925.png"
 ) 
 
 ---
