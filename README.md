@@ -44,8 +44,7 @@ This dashboard aims to answer:
 
 ## 📊 Dashboard Link
 
-👉 [View Store Sales Dashboard]("C:\Users\WELCOME\Pictures\Screenshots\Screenshot 2025-10-21 180545.png","C:\Users\WELCOME\Pictures\Screenshots\Screenshot 2025-10-21 180925.png"
-) 
+👉 [View Store Sales Dashboard](https://github.com/Debabrataswain3/Store-Sales-Analysis-Dashboard-Power-BI-/blob/main/Screenshot%202025-10-21%20180545.png) 
 
 ---
 
